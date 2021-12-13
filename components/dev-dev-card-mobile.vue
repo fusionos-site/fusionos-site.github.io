@@ -17,7 +17,7 @@
       <tspan x="0" y="180">source, so head out to our <a href="https://github.com/Fusion-OS/" target="_blank">GitHub page</a> for</tspan>
       <tspan x="0" y="270">instructions and get right to it!</tspan>
       <tspan>
-        <tspan x="0" y="450">Or have you been building POSP unofficially for</tspan>
+        <tspan x="0" y="450">Or have you been building FusionOS unofficially for</tspan>
       </tspan>
       <tspan x="0" y="540">some time now and want to become a maintainer?</tspan>
       <tspan>

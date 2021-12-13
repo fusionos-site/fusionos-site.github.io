@@ -16,7 +16,7 @@
         <tspan x="0" y="90">devices as we grow, so there is a chance that in the</tspan>
       </tspan>
       <tspan x="0" y="180">near future, we’ll support yours too!</tspan>
-      <tspan x="0" y="360">Some developers also build POSP unofficially, so</tspan>
+      <tspan x="0" y="360">Some developers also build FusionOS unofficially, so</tspan>
       <tspan x="0" y="450">you can search your device’s xda page for one and</tspan>
       <tspan>
         <tspan x="0" y="540">try it out. We’re not responsible for any bugs you</tspan>

@@ -128,7 +128,7 @@
             
           />
         </div>
-        <div class="col-span-3 md:col-span-2">
+        <div class="col-span-6 md:col-span-2">
           <TeamCard
             name="SriBalaji"
             role="Project manager / Web Dev"
@@ -157,7 +157,7 @@
             github="https://github.com/"
           />
         </div>
-        <div class="col-span-6 md:col-span-2">
+        <div class="col-span-3 md:col-span-2">
           <TeamCard
             name="AmaanCG"
             role="Designer and Animator"
@@ -165,7 +165,7 @@
             github="https://github.com/"
           />
         </div>
-        <div class="col-span-6 md:col-span-2">
+        <div class="col-span-3 md:col-span-2">
           <TeamCard
             name="loxianne"
             role="Designer"
@@ -238,7 +238,7 @@
             target="_blank"
           >
             <button
-              class="px-5 py-3 mt-6 font-semibold text-white rounded-full focus:outline-none bg-p-green hover:bg-green-700"
+              class="px-5 py-3 mt-6 font-semibold text-white rounded-full focus:outline-none bg-p-blue hover:bg-indigo-700"
             >Click here</button>
           </a>
         </div>
@@ -287,7 +287,7 @@
             <p
               class="pb-5"
             >Don’t worry, we’re supporting more and more devices as we grow, so there is a chance that in the near future, we’ll support yours too!</p>
-            <p>Some developers also build POSP unofficially, so you can search your device’s xda page for one and try it out. We’re not responsible for any bugs you encounter in those builds, though.</p>
+            <p>Some developers also build FusionOS unofficially, so you can search your device’s xda page for one and try it out. We’re not responsible for any bugs you encounter in those builds, though.</p>
           </DevCard>
         </div>
         <div class="flex-1">
