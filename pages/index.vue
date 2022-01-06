@@ -211,9 +211,9 @@
         class="top-0 right-0 hidden w-24 p-absolute lg:w-32 md:block"
       />
       <img
-        src="../assets/img/Fusion.png"
-        style="width: 80.2rem; transform: translateY(1px);"
-        class="bottom-0 left-0 hidden p-absolute md:block"
+        src="../assets/img/Union.svg"
+        style="transform: translateY(1px);"
+        class="bottom-0 left-0 hidden w-24 lg:w-32 p-absolute md:block"
       />
     <!--  <img
         src="../assets/img/team_circle_bottom.svg"
