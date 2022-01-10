@@ -96,7 +96,7 @@
         class="grid items-center grid-cols-6 gap-3 px-6 pb-6 md:pl-1/8 md:pr-8 md:gap-4 lg:gap-6 lg:pr-1/12"
       >
         <div class="col-span-6">
-          <h1 class="text-xl text-center p-6 font-semibold text-left text-white md:text-3xl">Core Team</h1>
+          <h1 class="text-xl font-semibold text-left p-6 text-left text-white md:text-3xl">Core Team</h1>
         </div>
         <div class="col-span-3 md:col-span-2 ">
           <TeamCard
@@ -142,7 +142,14 @@
             twitter="https://twitter.com/thecloverly"
           />
         </div>
-        
+        <div class="col-span-3 md:col-span-2">
+          <TeamCard
+            name="Suyog"
+            role="Developer"
+            :img="require(`@/assets/img/pfp/kat.webp`)"
+            github="https://github.com/"
+          />
+        </div>
         <div class="col-span-3 md:col-span-2">
           <TeamCard
             name="Aditya Singh"
@@ -153,11 +160,14 @@
             twitter="https://twitter.com/"
           />
         </div>
+        <div class="col-span-6">
+          <h1 class="text-xl font-semibold text-left text-white md:text-3xl">Designers</h1>
+        </div>
         <div class="col-span-3 md:col-span-2">
           <TeamCard
-            name="Suyog"
-            role="Developer"
-            :img="require(`@/assets/img/pfp/kat.webp`)"
+            name="Naufal Wiwit"
+            role="App Dev "
+            :img="require(`@/assets/img/pfp/NaufalWiwit.jpg`)"
             github="https://github.com/"
           />
         </div>
@@ -169,7 +179,7 @@
             github="https://github.com/"
           />
         </div>
-        <div class="col-span-3 md:col-span-2">
+        <div class="col-span-6 md:col-span-2">
           <TeamCard
             name="loxianne"
             role="Designer"
@@ -272,9 +282,9 @@
           <p>should be all set. Happy flashing!</p>
         </div>
         <div class="col-span-1">
-          <a href="#" target="_blank">
+          <a href="https://t.me/fusionos" target="_blank">
             <button
-              class="px-5 py-3 mb-10 font-semibold bg-white rounded-full text-p-blue hover:bg-gray-300"
+              class="px-5 py-3 mb-10 font-semibold bg-white rounded-full text-p-blue hover:bg-gray-300 "
             >Download</button>
           </a>
         </div>
