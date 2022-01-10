@@ -68,10 +68,14 @@
           />  
         </div>
         <div class="col-span-8 md:col-span-3">
-          <img src="../assets/img/RoutineUpdates2.svg" class="w-full mx-auto md:w-80 lg:w-104 xl:w-full xl:px-16 xl:max-w-xl" />
+          <img src="../assets/img/RoutineUpdates2.svg" 
+          class="w-full mx-auto md:w-80 lg:w-104 xl:w-full xl:px-16 xl:max-w-xl"
+           />
         </div>
         <div class="col-span-8 md:col-span-4">
-          <img src="../assets/img/RoutineUpdates.svg" class="w-full mx-auto md:w-80 lg:w-104 xl:w-full xl:px-16 xl:max-w-xl" />
+          <img src="../assets/img/RoutineUpdates.svg" 
+          class="w-full mx-auto md:w-80 lg:w-104 xl:w-full xl:px-16 xl:max-w-xl "
+           />
         </div>
       </div>
     <!--  <img
@@ -206,14 +210,14 @@
         </div> --> 
         </div>
       <img
-        src="../assets/img/team_circle_top.svg"
+        src="../assets/img/corners02.svg"
         style="transform: translateY(-1px);"
-        class="top-0 right-0 hidden w-24 p-absolute lg:w-32 md:block"
+        class="top-0 right-0 hidden w-72 p-absolute md:block"
       />
       <img
-        src="../assets/img/Union.svg"
+        src="../assets/img/corner01.svg"
         style="transform: translateY(1px);"
-        class="bottom-0 left-0 hidden w-24 lg:w-32 p-absolute md:block"
+        class="bottom-0 left-0 hidden w-72 p-absolute md:block"
       />
     <!--  <img
         src="../assets/img/team_circle_bottom.svg"
